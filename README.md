@@ -12,8 +12,7 @@
 
 ## 🔍 Dataset
 
-- **Dataset:** [All-Age-Faces Dataset (UTKFace)](https://susanqq.github.io/UTKFace/)  
-- The age labels were extracted from filenames formatted as `xxxAyy.jpg`, where `yy` denotes the individual's age.
+- **Dataset:** [All-Age-Faces Dataset](https://github.com/JingchunCheng/All-Age-Faces-Dataset?tab=readme-ov-file)  
 
 ---
 

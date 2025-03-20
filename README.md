@@ -52,7 +52,7 @@ You can directly integrate these models into your mobile applications or inferen
 
 ## 📜 License
 
-- **Author**: jejememe
+- **Author**: ray@jejememe
 - **License**: MIT License
 
 ---

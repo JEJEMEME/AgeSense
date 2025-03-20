@@ -42,9 +42,9 @@
 
 The trained model is available in the following formats:
 
-- **PyTorch** (`age_model.pt`)
-- **ONNX** (`age_model.onnx`)
-- **CoreML** (`age_model.mlmodel` & `age_model_quantized.mlmodel`)
+- **PyTorch** (`age_sense.pt`)
+- **ONNX** (`age_sense.onnx`)
+- **CoreML** (`age_sense.mlmodel` & `age_sense_quantized.mlmodel`)
 
 You can directly integrate these models into your mobile applications or inference pipelines.
 
